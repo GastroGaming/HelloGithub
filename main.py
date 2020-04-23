@@ -9,3 +9,6 @@ print("Dylan Green")
 print("I like turtles")
 print("") # This is also a blank line
 
+print("Weston Oler")
+print("no")
+print('')
